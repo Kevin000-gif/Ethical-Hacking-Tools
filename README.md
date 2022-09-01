@@ -6,12 +6,11 @@ forthebadge
 https://github.com/Kevin000-gif/Ethical-Hacking-Tools   
 
 DOWNLOAD
-Kali Linux     🐉
-Parrot OS    🦜
-Remnux    🐝
-bWAPP    💻
-OWASP Juice Shop    🍹
-
+https://www.kali.org/downloads/
+https://parrotsec.org/download/
+https://remnux.org/#distro
+https://sourceforge.net/projects/bwapp/files/bee-box/
+https://owasp.org/www-project-juice-shop/
 
 
 What is Hacking? 👾
@@ -81,7 +80,7 @@ The 10 most common cyber attack types:
     Cross-site scripting (XSS) attack  
     Eavesdropping attack  
     Birthday attack  
-    Malware attack  
+    Malware attack  ](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Password%20attack)
 
 
 Phases of Ethical Hacking
